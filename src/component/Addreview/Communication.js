@@ -25,6 +25,7 @@ import { Platform, StyleSheet, Text, View, TextInput, StatusBar,FlatList, Scroll
                     placeholder='score'
                     ></TextInput>
                 )
+                // dummy comment
                 }
                 </View>
                 </View>
