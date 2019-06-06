@@ -1,0 +1,2 @@
+export const SEARCH_USER='SEARCH_USER';
+export const SELECTED_USER='SELECTED_USER';
